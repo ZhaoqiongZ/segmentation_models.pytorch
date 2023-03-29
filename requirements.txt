@@ -5,3 +5,5 @@ timm==0.6.12
 
 tqdm
 pillow
+
+intel_extension_for_pytorch
